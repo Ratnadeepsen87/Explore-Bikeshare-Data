@@ -2,9 +2,6 @@
 Project on Explore-US-Bikeshare-Data
 
 
-### Date created
-Created on 02 July,2020
-
 ### Project title
 Udacity Programming for Data Science Nanodegree Program Explore-US-Bikeshare-Data
 
@@ -39,3 +36,15 @@ The Chicago and New York City files also have the following two columns:
 ### Files used
 The dataset used in the project was provided by Motivate - https://www.motivateco.com/
 
+### Credits
+
+Thank you Udacity for providing the course and the necessary material for me to develop this project.
+
+Sources of help and inspiration:
+
+https://stackoverflow.com/questions/21323692/convert-seconds-to-weeks-days-hours-minutes-seconds-in-python
+
+https://docs.python.org/3/tutorial/inputoutput.html
+
+
+Author @ratnadeepsen
