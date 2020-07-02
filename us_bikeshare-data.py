@@ -19,12 +19,12 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
  
     
-    city = input('Would you like to see data from chicago, new york city or washington?    \n')
+    city = input('Would you like to see data from Chicago, New York City or Washington?    \n')
     
     # We need to convert the city string into lower case 
     while city.lower() not in ('chicago', 'new york city','washington'):
         print('Please enter a correct city name    \n')
-        city = input('Would you like to see data from chicago, new york city or washington?\n')
+        city = input('Would you like to see data from Chicago, New York City or Washington?    \n')
         
     
     # TO DO: get user input for month (all, january, february, ... , june)
